@@ -26,3 +26,9 @@ Ingenieria de sistemas, 8 semestre, plan de estudios 14.
 for i in range(10):
     print(i)
 ~~~
+
+# Learn Git Branching Main
+![main](https://github.com/sebas679pb/Taller1Cvds/blob/master/Sebastian%20Pi%C3%B1eros/Main.png)
+
+# Learn Git Branching Remote
+![remote](https://github.com/sebas679pb/Taller1Cvds/blob/master/Sebastian%20Pi%C3%B1eros/Remote.png)
