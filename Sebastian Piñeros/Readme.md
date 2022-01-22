@@ -20,7 +20,7 @@ Ingenieria de sistemas, 8 semestre, plan de estudios 14.
 
 [Documentacion git](https://git-scm.com/docs)
 
-![Imagen](C:\Users\Sebastian\Pictures\Screenshots)
+![Imagen](https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg)
 
 ~~~
 for i in range(10):
