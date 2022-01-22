@@ -30,5 +30,9 @@ for i in range(10):
 # Learn Git Branching Main
 ![main](https://github.com/sebas679pb/Taller1Cvds/blob/master/Sebastian%20Pi%C3%B1eros/Main.png)
 
+![mainCarnet](https://github.com/sebas679pb/Taller1Cvds/blob/master/Sebastian%20Pi%C3%B1eros/MainCarnet.jpeg)
+
 # Learn Git Branching Remote
 ![remote](https://github.com/sebas679pb/Taller1Cvds/blob/master/Sebastian%20Pi%C3%B1eros/Remote.png)
+
+![remoteCarnet](https://github.com/sebas679pb/Taller1Cvds/blob/master/Sebastian%20Pi%C3%B1eros/RemoteCarnet.jpeg)
