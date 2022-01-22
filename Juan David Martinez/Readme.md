@@ -1,5 +1,5 @@
 # Juan David Martinez
-![imagen](fotomia.png){withd=60%}
+![imagen](fotomia.png){withd=80%}
 - Edad: 20 años
 - Plan de estudios: ISIS 14
 - Fecha de nacimiento: Octubre 7 de 2001
@@ -36,4 +36,4 @@ if a = 0:
 
 
 > Tu trabajo va a llenar gran parte de tu vida, la única manera de estar realmente satisfecho es hacer lo que creas que es un gran trabajo y la única manera de hacerlo es amar lo que haces
-Steve Jobs
+ ~Steve Jobs
