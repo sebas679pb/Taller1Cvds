@@ -1,5 +1,5 @@
 # Juan David Martinez
-![imagen](foto.png =250x)
+![imagen](foto.png=250x)
 - Edad: 20 años
 - Plan de estudios: ISIS 14
 - Fecha de nacimiento: Octubre 7 de 2001
