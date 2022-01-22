@@ -5,19 +5,19 @@
 - Fecha de nacimiento: Octubre 7 de 2001
 - Equipo favorito: Millonarios
 
-##Actividades Favoritas
+## Actividades Favoritas
 - *Ver futbol*
 - *Compartir con mi familia y amigos*
 - *Escuchar musica*
 
-###Artistas favoritos
+### Artistas favoritos
 1. Carin Leon
 2. Feid
 3. Silvestre Dangond
 
 ![Imagen 3](ferxxo.jpg)
 
-####Pagina de interes
+#### Pagina de interes
 [Actualidad deportiva](https://colombia.as.com/)
 
 ~~~
@@ -25,8 +25,11 @@ a = 0
 if a = 0:
 	return a~~~
 
-####Git Branching
+
+#### Git Branching
+
 ![Imagen 1](git1.jpeg)
+
 ![Imagen 2](git2.jpeg)
 
 
